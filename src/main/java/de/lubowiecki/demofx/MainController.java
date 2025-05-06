@@ -21,6 +21,7 @@ public class MainController {
     Das Personen-Objekt soll neben dem Alter als int auch
     ein Datum enthalten zu dem das Objekt hinzugefügt wurde.
     Das Datum wird automatisch erzeugt und ist erst in der Ausgabe sichtbar.
+    Das Datum soll in landesüblichen Format angezeigt werden
      */
 
 
