@@ -7,6 +7,23 @@ import javafx.scene.control.TextField;
 
 public class MainController {
 
+    /* Aufgabe 1:
+    Baue ein Formular zum Speichern von Personendaten
+    Es soll ein Vorname, Nachname und Alter entgegengenommen werden
+    und in ein Textarea ausgegeben werden
+    Anschließend sollen die Eigabefelder geleert werden
+     */
+
+    /* Aufgabe 2:
+    Erweitere das Programm so, dass die Eingaben aus dem Formular
+    nicht als Text in einem StringBuilder festgehalten werden, sondern
+    als Personen-Objekten in einer Liste.
+    Das Personen-Objekt soll neben dem Alter als int auch
+    ein Datum enthalten zu dem das Objekt hinzugefügt wurde.
+    Das Datum wird automatisch erzeugt und ist erst in der Ausgabe sichtbar.
+     */
+
+
     @FXML
     private Label welcomeText;
 
